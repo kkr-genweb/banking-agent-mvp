@@ -38,5 +38,8 @@ uv run mvp_bank_support.py
 For development, make sure to set up your OpenAI API key:
 
 ```bash
+cat set_openai_key.sh
+#export OPENAI_API_KEY="sk-proj-..."
+
 source set_openai_key.sh
 ```
