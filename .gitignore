@@ -1,0 +1,6 @@
+#secrets
+set_openai_key.sh
+
+#python
+.venv/
+__pycache__
